@@ -1,6 +1,6 @@
 #변수 선언
-name = "Alice"
-age = 25
+name = "AliceBB"
+age = 45
 score = 95.5
 
 # 1. 기본출력
