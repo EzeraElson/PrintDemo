@@ -2,6 +2,7 @@
 name = "AliceBB"
 age = 45
 score = 95.5
+apple = "apple"
 
 # 1. 기본출력
 print("Hello, Python!")
